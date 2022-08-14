@@ -350,9 +350,12 @@ public class Array {
 			temp=temp/10;
 		}
         if(n==sum)
-		{			
+		{
 		 System.out.println(sum + "is armstrong no but its not ...........B2");
 		 System.out.println(sum + "is armstrong no but its not ...........B2");
+		 System.out.println(sum + "is armstrong no program but not working properly");//B1
+		 System.out.println(sum + "is armstrong no program but not working properly");//B1
+		 
         }
 	}
 	

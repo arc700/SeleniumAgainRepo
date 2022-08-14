@@ -33,6 +33,6 @@ public class Annotations {
 	}
 	@Test 
 	public void exampleTest() {
-		System.out.println("techno 3nd");	
+		System.out.println("techno 3nd.........B2");	
 	}
 }

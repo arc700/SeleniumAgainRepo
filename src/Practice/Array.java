@@ -351,7 +351,8 @@ public class Array {
 		}
         if(n==sum)
 		{			
-		 System.out.println(sum + "is armstrong no");
+		 System.out.println(sum + "is armstrong no but its not ...........B2");
+		 System.out.println(sum + "is armstrong no but its not ...........B2");
         }
 	}
 	
